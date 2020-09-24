@@ -5,9 +5,14 @@
     margin: 3% 3% 2% 0;
   }
 
+.img1 { flex: 1.3344; }
+.img2 { flex: 1.3345; }
+.img3 { flex: 0.7505; }
+.img4 { flex: 1.5023; }
+.img5 { flex: 0.75; }
 
 body {
-    background-color: rgb(115, 124, 133);
+    background-color: rgb(104, 191, 241);
 }
 
 .main {
@@ -20,4 +25,9 @@ body {
 
 .spacing{
     margin-bottom: 1%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
