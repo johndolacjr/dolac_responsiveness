@@ -1,15 +1,23 @@
-img {
-    width: 100%;
-    height: auto;
-    vertical-align: middle;
+#selfie {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 3% 3% 2% 0;
   }
 
-.img1 { flex: 1.3344; }
-.img2 { flex: 1.3345; }
-.img3 { flex: 0.7505; }
-.img4 { flex: 1.5023; }
-.img5 { flex: 0.75; }
 
-background {
-    background-color: slategray;
+body {
+    background-color: rgb(115, 124, 133);
+}
+
+.main {
+    background-color: snow;
+}
+
+#spacing {
+    margin-top:3%;
+}
+
+.spacing{
+    margin-bottom: 1%;
 }
