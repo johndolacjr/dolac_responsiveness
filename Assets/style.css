@@ -31,3 +31,12 @@ img {
     max-height: 100%;
     display:inline-block;
       }
+
+.rounded {
+    margin-top: 2%;
+    margin-bottom: 1%
+}
+
+.input-group {
+    margin: 2%;
+}
