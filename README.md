@@ -31,9 +31,9 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 ### Minimum Requirements
 
-* Functional, deployed application
+// Functional, deployed application
 
-* GitHub repository with README describing the project
+// GitHub repository with README describing the project
 
 // Navbar must be consistent on each page.
 
@@ -41,13 +41,13 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 // All links must work.
 
-?? Must use semantic html.
+// Must use semantic html.
 
 // Each page must have valid and correct HTML. (use a validation service)
 
-// Must contain your personalized information. (bio, name, images, links to social media, etc.)
+// Must contain your personalized information. (bio, name, images, links to social media, etc.
 
-?? Must properly utilize Bootstrap components and grid system.
+// Must properly utilize Bootstrap components and grid system.
 
 
 ### Bonus
