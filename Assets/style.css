@@ -40,3 +40,8 @@ img {
 .input-group {
     margin: 2%;
 }
+
+.blockquote {
+    font-size: medium;
+    font-family: fantasy;
+}
