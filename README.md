@@ -1,14 +1,42 @@
-Dolac ReadMe.md
+## Title
+    John Dolac's Portfolio
 
-This portfolio gives a peak into my life and how to use my website. 
+## Live Application
+    https://johndolacjr.github.io/dolac_responsiveness/index.html
+    
+## GitHub Repository
+    https://github.com/johndolacjr
 
-About Me
-* This tab is an cliff notes version of my exciting auto-biography which adds details on what brought me out to Salt Lake City, UT. 
+## Technologies Used
+    HTML
+    CSS
 
-Contact Info
-* The contact info tab is a placeholder to begin to collect or send contact info to users of this web page. 
+## Description of My Portfolio: 
+    This portfolio gives a peak into my life and how to use my website. It also shows you a glimpse of my completed work from Coding Bootcamp. 
 
-Portfolio 
-* The portfolio tab provides pictures of some of my families adventures since we have moved out to Salt Lake City. 
+    Tab 1. About Me
+        This tab is an cliff notes version of my exciting auto-biography which adds details on what brought me out to Salt Lake City, UT. 
 
-To use my web page, please use the navigation bar in the top left corner of the web page to browse tabs to learn more about me. At the bottom of my "auto-biography" you will find links to my social media pages where you can follow me should you choose. 
+    Tab 2. Contact Info
+        The contact info tab is a placeholder to begin to collect or send contact info to users of this web page.
+
+    Tab 3. Portfolio 
+        The portfolio tab provides pictures and links to some of my better pieces of work. Hope you enjoy.  
+
+## How to use my page
+    To use my web page, please use the navigation bar in the top left corner of the web page to browse tabs to learn more about me. At the bottom of my "auto-biography" you will find links to my social media and github pages as well as my contact information so you can stay in touch or follow me on socail media.  
+
+## Image Links
+    
+
+## License
+    NA
+
+## Collaborators
+    Name: John Dolac 
+    Email: johndolacjr@gmail.com
+    Collaborators: Tyler Bolty
+
+
+
+
