@@ -27,8 +27,10 @@
     To use my web page, please use the navigation bar in the top left corner of the web page to browse tabs to learn more about me. At the bottom of my "auto-biography" you will find links to my social media and github pages as well as my contact information so you can stay in touch or follow me on socail media.  
 
 ## Image Links
+    Homepage: https://raw.githubusercontent.com/johndolacjr/dolac_responsiveness/master/Homepage_IMG.png
+    Contact Page: https://raw.githubusercontent.com/johndolacjr/dolac_responsiveness/master/Contact_IMG.png 
+    Portfolio Page: https://raw.githubusercontent.com/johndolacjr/dolac_responsiveness/master/Portfolio_IMG.png
     
-
 ## License
     NA
 
