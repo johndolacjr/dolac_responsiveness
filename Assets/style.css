@@ -34,7 +34,7 @@ img {
 
 .rounded {
     margin-top: 2%;
-    margin-bottom: 1%
+    margin-bottom: 1%;
 }
 
 .input-group {
@@ -44,4 +44,9 @@ img {
 .blockquote {
     font-size: medium;
     font-family: fantasy;
+}
+
+.container {
+    font-family: 'Lucida Sans';
+    font-size: small;
 }
